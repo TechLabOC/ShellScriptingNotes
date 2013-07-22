@@ -1,4 +1,4 @@
-Title - Place Equal Signs Underneath to Make a TItle
+Title - Place Equal Signs Underneath to Make a Title
 ================
 
 
